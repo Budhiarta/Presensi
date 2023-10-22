@@ -1,0 +1,16 @@
+{
+    "permissions": [
+      {
+        "name": "Budhi",
+        "position": "Frontend",
+        "date": "2023-11-09",
+        "reason": "upacara agama"
+      },
+      {
+        "name": "Budhi",
+        "position": "Frontend",
+        "date": "2023-12-08",
+        "reason": "upacara agama"
+      }
+    ]
+  }

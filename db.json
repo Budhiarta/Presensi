@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fauzan Resa",
+      "username": "Fauzan",
+      "email": "fauzanresa@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Rheza Subekti",
+      "username": "Rheza",
+      "email": "rhezasubekti@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Dhika Pamungkas",
+      "username": "Dhika",
+      "email": "dhikapamungkas@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Akbar Rohani",
+      "username": "Akbar",
+      "email": "akbarrohani@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Jeremiah Julianto",
+      "username": "Jeremiah",
+      "email": "jeremiahjulianto@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "aku",
+      "email": "aku@gmail.com"
+    }
+  ]
+}
