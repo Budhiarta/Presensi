@@ -66,12 +66,12 @@
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: 20px;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh; /* Mengisi seluruh tinggi layar */
+}
+
   
   .form-container {
     margin-bottom: 20px;
@@ -141,3 +141,5 @@
   .nav-att{
     position: 'fixed'
   }
+
+  
